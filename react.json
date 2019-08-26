@@ -1,1 +1,7 @@
-[{title:"this is test title",desc:"this is desc",imgUrl:"http://www.baidu.com/img/bd_logo1.png"},{title:"this is test title",desc:"this is desc",imgUrl:"http://www.baidu.com/img/bd_logo1.png"},{title:"this is test title",desc:"this is desc",imgUrl:"http://www.baidu.com/img/bd_logo1.png"}]
+[
+    { "id": "1", "title": "Star Wars", "desc": "1977","imgUrl":"http://www.baidu.com/img/bd_logo1.png" },
+    { "id": "2", "title": "Back to the Future", "desc": "1985","imgUrl":"http://www.baidu.com/img/bd_logo1.png" },
+    { "id": "3", "title": "The Matrix", "desc": "1999","imgUrl":"http://www.baidu.com/img/bd_logo1.png" },
+    { "id": "4", "title": "Inception", "desc": "2010","imgUrl":"http://www.baidu.com/img/bd_logo1.png" },
+    { "id": "5", "title": "Interstellar", "desc": "2014","imgUrl":"http://www.baidu.com/img/bd_logo1.png" }
+  ]
